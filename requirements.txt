@@ -1,0 +1,4 @@
+crewai
+html2text 
+playwright 
+python-dotenv
